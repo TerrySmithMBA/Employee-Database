@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char * fgets(char *restrict s, int n, FILE *restrict stream);
+
 
 typedef struct employee{
   char firstName[50];
