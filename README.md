@@ -1,5 +1,5 @@
 # Employee-Database
-Simple employee database project in C
+Simple employee database project in C [Compiled with gcc]
 ![alt text](https://github.com/TerrySmithMBA/Employee-Database/blob/master/employeedatabase.png)
 ![alt text](https://github.com/TerrySmithMBA/Employee-Database/blob/master/employeedatabase-viewemployee.png)
 
