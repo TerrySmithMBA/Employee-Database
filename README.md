@@ -9,4 +9,4 @@ Simple employee database project in C [Compiled with gcc]
 
 
 Still needs a few things: 
-1) Delete employees in a user friendly way 2) Access employee by employee ID
+1) Delete employees in a user friendly way 2) Access employee by employee ID 3) Save database
